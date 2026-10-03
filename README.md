@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of huseyinfiliz/guest.** Not for installation: use [Packagist](https://packagist.org/packages/huseyinfiliz/guest) or the [upstream repository](https://github.com/huseyinfiliz/guest).
 
-**0** versions archived · Latest: [`v2.1`](https://github.com/flarchive/huseyinfiliz-guest/tree/archive/v2.1) · License: `MIT` · Flarum: `^1.8`
+**2** versions archived · Latest: [`v2.1`](https://github.com/flarchive/huseyinfiliz-guest/tree/archive/v2.1) · License: `MIT` · Flarum: `^1.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v2` | 2025-08-26 | `^1.8` | [Browse](https://github.com/flarchive/huseyinfiliz-guest/tree/archive/v2) |
+| `v2.1` | 2025-08-26 | `^1.8` | [Browse](https://github.com/flarchive/huseyinfiliz-guest/tree/archive/v2.1) |
 
 Catalog entry: [packages/huseyinfiliz-guest.json](https://github.com/flarchive/archive-index/blob/main/packages/huseyinfiliz-guest.json)
 
